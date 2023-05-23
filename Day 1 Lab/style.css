@@ -1,0 +1,30 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header {
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.smoothie-bowl {
+  display: block;
+  margin: 0 auto;
+  height: 500px;
+  width: 800px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.order-now {
+  display: block;
+  margin: 0 auto;
+  background-color: red;
+  color: white;
+  border-radius: 35px;
+  margin-top: 10px;
+  padding: 8px;
+  border: none;
+}
